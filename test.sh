@@ -13,15 +13,21 @@ LNMP_Ver='1.9'
 . include/main.sh
 
 
-echo "+-------------------------------------------------------------------+"
-echo "|   Reset MySQL/MariaDB root Password for LNMP, Written by Licess   |"
-echo "+-------------------------------------------------------------------+"
-echo "|       A tool to reset MySQL/MariaDB root password for LNMP        |"
-echo "+-------------------------------------------------------------------+"
-echo "|       For more information please visit https://lnmp.org          |"
-echo "+-------------------------------------------------------------------+"
-echo "|           Usage: ./reset_mysql_root_password.sh                   |"
-echo "+-------------------------------------------------------------------+"
+echo "┌───────────────────────────────────────────────────────────────────┐"
+echo "│   Reset MySQL/MariaDB root Password for LNMP, Written by Licess   │"
+echo "├───────────────────────────────────────────────────────────────────┤"
+echo "│       A tool to reset MySQL/MariaDB root password for LNMP        │"
+echo "├───────────────────────────────────────────────────────────────────┤"
+echo "│       For more information please visit https://lnmp.org          │"
+echo "├───────────────────────────────────────────────────────────────────┤"
+echo "│           Usage: ./reset_mysql_root_password.sh                   │"
+echo "└───────────────────────────────────────────────────────────────────┘"
+
+# ┌─┬─┐
+# │ │ │
+# ├─┼─┤
+# │ │ │
+# └─┴─┘
 
 Main_Init
 
